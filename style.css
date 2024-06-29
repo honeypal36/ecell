@@ -1,0 +1,73 @@
+@media(min-width:600px){
+    .bg{
+        width: 1500px;
+        height: 1080px;
+    
+    }
+}
+@media(max-width:500px){
+    .bg{
+        width: 500px;
+        height: 1000px;
+    
+    }
+}
+.logo{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+.intro{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    width: 26%;
+    color: antiquewhite;
+}
+.title{
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sideimg{
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    height: 400px;
+    width: 600px;
+    border-radius: 20%;
+}
+.contact{
+    position: absolute;
+    top: 640px;
+    left: 120px;
+    height: 80px;
+    width: 180px;
+    background-color: whitesmoke;
+    border-radius: 20%;
+}
+.insta,.x,.in{
+    height: 50px;
+    width: 50px;
+    
+}
+.bar{
+    position: absolute;
+    left: 600px;
+    top: 50px;
+    color: whitesmoke;
+    word-spacing: 30px;
+    font-size: 20px;
+    
+}
+.footer{
+    color: white;
+    position: absolute;
+    top: 1050px;
+    left: 600px;
+}
+
+
+
